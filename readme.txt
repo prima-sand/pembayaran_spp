@@ -21,7 +21,3 @@ file database = db_spp.sql
 
 ############################
 
-Nama  : Alfip Lutfiana Luki
-Kelas : XI RPL 2
-
-############################
